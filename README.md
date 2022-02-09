@@ -10,3 +10,7 @@ There is 4 files, one for the Exploratory Data Analysis, two for the preprocessi
 
 Results : The SGDClassifier model has been used and optimized to predict the result of a test for a suspected case.
 The recall and f1 scores are 75%.
+
+# References
+https://www.kaggle.com/einsteindata4u/covid19
+https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ
